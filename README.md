@@ -1,4 +1,4 @@
-# DISASTER-MANAGEMENT-SYSTEM# Disaster Management System
+# DISASTER-MANAGEMENT-SYSTEM
 
 A Java Swing desktop application (CGB1201 - Java Programming) that detects disasters, assesses severity, sends alerts, manages resources and tracks response and recovery.
 
